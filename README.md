@@ -7,9 +7,9 @@ These projects were completed as part of my cybersecurity learning journey, demo
 Welcome to the summary of my Cybersecurity Projects!
 
 ## 📚 Table of Contents
-- [CI/CD Pipeline Threat Model Using Threat Dragon](#CI/CD-Pipeline-Threat-Model-Using-Threat-Dragon)
-- [Evidence of Successful CI/CD Pipeline Execution](#Evidence-of-Successful-CI/CD-Pipeline-Execution)
-- [CI/CD Pipeline Report](#CI/CD-Pipeline-Report)
+- [CI/CD Pipeline Threat Model Using Threat Dragon](#CI-CD-Pipeline-Threat-Model-Using-Threat-Dragon)
+- [Evidence of Successful CI/CD Pipeline Execution](#Evidence-of-Successful-CI-CD-Pipeline-Execution)
+- [CI/CD Pipeline Report](#CI-CD-Pipeline-Report)
 - [HackThisSite Penetration Test Report](#HackThisSite-Penetration-Test-Report)
 - [Fraud Detection Dashboard Using Splunk](#Fraud-Detection-Dashboard-Using-Splunk)
 
